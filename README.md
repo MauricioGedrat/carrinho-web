@@ -61,7 +61,7 @@ Abra **http://localhost:3000** no Chrome do computador (o PC precisa ter Bluetoo
 O jeito mais fácil e gratuito é a **Vercel**:
 
 1. Entre em https://vercel.com com a conta do GitHub → **Add New → Project** → escolha o repositório → **Deploy**.
-3. A Vercel dá um endereço `https://...vercel.app`. É só abrir no Chrome do celular Android.
+2. A Vercel dá um endereço `https://...vercel.app`. É só abrir no Chrome do celular Android.
 
 ## Controles
 
